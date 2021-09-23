@@ -3,7 +3,6 @@ package com.test.HelloWorld;
 import com.test.work.entity.Point;
 
 import java.util.*;
-
 public class IteratorTest {
     public static void main (String args[]){
         List c =new ArrayList();
